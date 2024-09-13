@@ -1,0 +1,33 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "prompt": "Ethereal mountain landscape at sunrise, in the style of impressionist oil painting, showcasing misty peaks, a winding river, and golden light filtering through clouds; vibrant palette with soft brushstrokes, atmospheric perspective, no human figures, serene and mystical mood --v 5 --stylize 750"
+    },
+    {
+      "id": 2,
+      "prompt": "Futuristic cityscape in a lush jungle setting, digital art style inspired by Simon Stålenhag, featuring towering eco-friendly skyscrapers integrated with giant trees, hanging gardens, and bioluminescent plants; neon accents, dramatic lighting with a distant sunset, flying vehicles, utopian atmosphere --v 5 --stylize 900"
+    },
+    {
+      "id": 3,
+      "prompt": "Ancient ruins in an underwater landscape, photorealistic render, depicting submerged Greco-Roman architecture, colorful coral reefs, schools of exotic fish, and shafts of sunlight penetrating the water surface; rich aquatic hues, particle effects for floating debris, mysterious and serene ambiance --v 5 --stylize 800"
+    },
+    {
+      "id": 4,
+      "prompt": "Surreal desert oasis at twilight, in the style of Salvador Dali, featuring melting clocks draped over cacti, a mirror-like pool reflecting impossible geometric shapes in the sky, and sand dunes that transform into flowing fabric; vivid colors, sharp contrasts, dreamlike and enigmatic atmosphere --v 5 --stylize 1000"
+    },
+    {
+      "id": 5,
+      "prompt": "Enchanted forest in autumn, Studio Ghibli inspired illustration, showcasing giant mushrooms, floating spirit creatures, and trees with faces; warm color palette with magical particle effects, dappled sunlight through canopy, whimsical and heartwarming mood --v 5 --stylize 850"
+    },
+    {
+      "id": 6,
+      "prompt": "Post-apocalyptic urban landscape, concept art style, depicting overgrown skyscrapers, nature reclaiming the city, rusted vehicles, and a lone figure silhouetted against a dramatic sky; muted color scheme with pops of vibrant plant life, atmospheric fog, somber yet hopeful mood --v 5 --stylize 950"
+    },
+    {
+      "id": 7,
+      "prompt": "Alien planet terrain, hard sci-fi digital painting, featuring bizarre rock formations, twin suns setting over a methane ocean, exotic crystalline vegetation, and a distant ringed gas giant in the sky; otherworldly color scheme, harsh lighting contrasts, awe-inspiring and slightly menacing atmosphere --v 5 --stylize 1000"
+    }
+  ],
+  "negative_prompt": "ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, Body out of frame, Blurry, Bad art, Bad anatomy, Blurred, Watermark, Grainy, Duplicate"
+}
